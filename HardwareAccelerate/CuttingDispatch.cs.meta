@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 19a55a07957c90b46bf622476e593218
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - thicknessObject1: {instanceID: 0}
+  - thicknessObject2: {instanceID: 0}
+  - depthObject1: {instanceID: 0}
+  - depthObejct2: {instanceID: 0}
+  - triDexelModifier: {fileID: 7200000, guid: 6cbba3ad661cd4744907b0a21c1f042c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e4acdfc2d8923af448158d5b2268b265
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - triDexelInitializer: {fileID: 7200000, guid: 807b2cd09fe137a44b1b1da4f85c66ee, type: 3}
+  - cubeIdentifier: {fileID: 7200000, guid: bd1804ceadac14545a25bc8982f10cab, type: 3}
+  - cubeLabeler: {fileID: 7200000, guid: 2c9e66766fd1a6f4f8ae60646a938a90, type: 3}
+  - lookUpTriDexel: {fileID: 7200000, guid: 313cfb13b685d944ea0fcd9749933e3d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
