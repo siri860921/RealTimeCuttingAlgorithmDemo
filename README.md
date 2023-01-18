@@ -5,8 +5,8 @@ A cutting algorithm utilizing the Tri-Dexel data structure to fast construct cut
 The cutting surfaces appear immediately after the cut is performed.
 
 
+https://user-images.githubusercontent.com/81800506/213147764-44203063-cf3c-4711-b072-5e4e69923e71.mp4
 
-https://user-images.githubusercontent.com/81800506/213146127-d897d86f-7129-4903-a4e3-aada22b66c52.mp4
 
 
 
