@@ -8,6 +8,9 @@ The cutting surfaces appear immediately after the cut is performed.
 
 
 
-https://user-images.githubusercontent.com/81800506/213148356-d8b464c5-5c3e-4098-b4b6-fcbd91d61bbf.mp4
+
+
+
+https://user-images.githubusercontent.com/81800506/213148760-b3fa85d9-16fb-49e7-879b-c4562d0ec4d7.mp4
 
 
